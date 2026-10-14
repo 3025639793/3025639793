@@ -12,7 +12,7 @@
 
 <br>
 
-[我的仓库 ↗](https://github.com/3025639793?tab=repositories) &nbsp; / &nbsp; [Ark · 方舟 ↗](https://github.com/3025639793/Ark)
+[我的仓库 ↗](https://github.com/3025639793?tab=repositories) &nbsp;
 
 <sub>这里还很空，不过以后应该会有些有意思的东西。</sub>
 
